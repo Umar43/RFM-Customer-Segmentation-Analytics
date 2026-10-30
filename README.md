@@ -55,7 +55,7 @@ The difference in spend between Champions and At Risk is statistically significa
 ### 5. Dashboard (Power BI)
 Interactive dashboard with segment breakdown (donut chart), average spend/recency/frequency by segment (bar charts), KPI cards, and a slicer for filtering.
 
-![Dashboard Overview](assets/dashboard_overview.pdf)
+![Dashboard](assets/Dashboard .png)
 
 ---
 
